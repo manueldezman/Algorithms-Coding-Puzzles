@@ -1,4 +1,4 @@
-'''
+```
 /*  This code is a C language program that calculates the
 total distance covered by six runners over a period of 1234 seconds.
 The program takes in the running speed, running
@@ -98,5 +98,5 @@ int main() {
     
     return 0;
 }
-'''
+```
 This code prints "The distance covered by the winning runner(Jenna) is : 3540.00 meters"
