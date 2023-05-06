@@ -98,3 +98,4 @@ int main() {
     return 0;
 }
 
+This code prints "The distance covered by the winning runner(Jenna) is : 3540.00 meters"
