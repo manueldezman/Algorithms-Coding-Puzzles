@@ -40,6 +40,6 @@ int main()
     int n = strlen(s);
     int dp[N][N];
     memset(dp, -1, sizeof(dp));
-    printf("%d\n", findMinimumDeletion(0, n - 1, dp, s));
+    printf("%d steps is needed to disconect the string\n", findMinimumDeletion(0, n - 1, dp, s));
     return 0;
 }
